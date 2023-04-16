@@ -14,4 +14,4 @@ Example of the accompanying code of a diagnostic where I would:
 - Create accompanying Tableau dashboard
 - Send off a deck with findings
 
-Thanks to Maria McCann for allowing me to use this code as part of my portfolio!
+Thanks to Maria McCann for giving me permission to use this code as part of my portfolio!
